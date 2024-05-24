@@ -1,0 +1,46 @@
+# Hackathon Website Template - Project Bio
+
+## Overview
+The Hackathon Website Template is designed to streamline the organization and management of hackathons. It provides a robust platform for event organizers to manage participants, schedules, submissions, and judging seamlessly. This project aims to support the hackathon community by offering a user-friendly and highly customizable website template.
+
+## Purpose
+The primary purpose of this project is to offer a ready-to-use, customizable website template for hackathons. It facilitates the entire process of organizing a hackathon, from registration and participant management to project submissions and final judging. By using this template, organizers can focus more on the event itself rather than the logistics of setting up a website.
+
+## Key Features
+- **Participant Registration:** Easy registration process for participants.
+- **Schedule Management:** Manage and display event schedules.
+- **Project Submissions:** Allow participants to submit their projects easily.
+- **Judging System:** Integrated judging system for evaluating submissions.
+- **Announcements:** Keep participants informed with updates and announcements.
+- **Responsive Design:** Optimized for both desktop and mobile devices.
+
+## Technologies Used
+- **Next.js:** A powerful React framework for building server-side rendered applications.
+- **JavaScript:** The primary programming language used in the project.
+- **TailwindCSS:** A utility-first CSS framework for styling the website.
+- **Figma:** Used for designing the website interface.
+- **ESLint & Prettier:** Tools for code quality and formatting.
+- **GitHub Actions:** CI/CD for automated testing and deployment.
+- **Cypress:** End-to-end testing framework to ensure functionality.
+
+## Environment Requirements
+- **Node.js:** Version 16.17.0 or higher.
+- **Environment Variables:** Various environment variables need to be configured for full functionality (e.g., Firebase and Google API keys).
+
+## Installation and Setup
+1. Clone the repository from GitHub.
+2. Install dependencies using `npm install`.
+3. Configure environment variables in a `.env` file.
+4. Run the development server using `npm run dev`.
+
+## Contribution
+We welcome contributions from the community! Whether you are fixing bugs, adding new features, or improving documentation, your help is appreciated. Please refer to our contribution guidelines in the repository.
+
+## History and Notable Contributions
+The project was initiated by the ACM UCR to support their annual hackathons. Over time, it has evolved with contributions from various developers and organizers. Notable features such as the integrated judging system and responsive design have been added through collaborative efforts.
+
+## Licensing
+The project currently does not have a license. However, we suggest adopting the MIT License due to its permissive nature, allowing for extensive use and modification of the code.
+
+For more detailed information and updates, please visit our GitHub repository: https://github.com/acm-ucr/hackathon-website
+
